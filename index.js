@@ -3,7 +3,7 @@ const express = require(`express`);
 const app = express();
 const { Client, Intents } = require("discord.js");
 const token = process.env.TOKEN;
-// const clientId = process.env.CLIENT_ID;git
+// const clientId = process.env.CLIENT_ID;
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 let port = process.env.PORT || 3000;
 
