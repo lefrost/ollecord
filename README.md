@@ -1,4 +1,4 @@
-##### Discord.js's [guide](https://discordjs.guide) is great, but I don't wanna read it everytime I make a new bot.
+### Discord.js's [guide](https://discordjs.guide) is great, but I don't wanna read it everytime I make a new bot.
 
 ###### Notables
 
