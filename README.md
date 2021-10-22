@@ -1,4 +1,7 @@
 ### Discord.js's [guide](https://discordjs.guide) is great, but I don't wanna read it everytime I make a new bot.
+A lightweight boilerplate to start building a Discord bot with Node.js.
+
+-----
 
 ###### Notables
 
