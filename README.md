@@ -14,8 +14,8 @@ A lightweight boilerplate to start building a Discord bot with Node.js.
 - `index.js` for expandable logic
 - `deploy-commands.js` for registering slash commands
 - `dotenv` for token storage
-- `Express`-powered runtime
-- Deployed with `Heroku` CLI
+- `express`-powered runtime
+- Deployed with `heroku` CLI
 
 ###### `.env` variables
 
