@@ -1,7 +1,7 @@
 require("dotenv").config();
 const { Client, Intents } = require("discord.js");
 const token = process.env.TOKEN;
-// const clientId = process.env.CLIENT_ID;
+// const clientId = process.env.CLIENT_ID;git
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
 client.once("ready", async () => {
