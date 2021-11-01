@@ -6,7 +6,7 @@ A lightweight boilerplate to start building a Discord bot with Node.js.
 ###### Notables
 
 - Start off with all the required dependencies
-- Deploy instantly onto Heroku
+- Deploy instantly onto Heroku/Replit
 - **Immediately start working on command interactions, not environment setup**
 
 ###### Architecture
@@ -15,7 +15,7 @@ A lightweight boilerplate to start building a Discord bot with Node.js.
 - `deploy-commands.js` for registering slash commands
 - `dotenv` for token storage
 - `express`-powered runtime
-- Deployed with `heroku` CLI
+- Deployed with `heroku` CLI or Replit web GUI
 
 ###### `.env` variables
 
